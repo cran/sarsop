@@ -1,9 +1,9 @@
-da263ace3050ed6c7650eca62e126ae5 *DESCRIPTION
-293a74096921d1c9ef364c977bd0ba7a *NAMESPACE
-6b3711ac280f1ad3fc4fc2fe46f4a784 *NEWS.md
+dd37b3672b2eb8aba871c7d6f464e708 *DESCRIPTION
+f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
+dd5de8ad0f3ee06b003d24f10228e5e4 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
-96700f8dd071b0c96343d497fad7e454 *R/compute_policy.R
+c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
 28f783bf3f012a44fd20e19ca67d4083 *R/fisheries.R
 ace8ff3faccc01e100f348a60b64b4df *R/hindcast_pomdp.R
 95e470e884c7ed1c13ba7dbbdfd27015 *R/meta_from_log.R
@@ -11,7 +11,7 @@ ace8ff3faccc01e100f348a60b64b4df *R/hindcast_pomdp.R
 4130b5a15ced57f3b6d98fa854625424 *R/sarsop.R
 f22e6cba72f7bfaeb46cd3c9e94b4deb *R/sim_pomdp.R
 3fb4e88933c4b41e75d734a907e2d62b *R/solutions_log.R
-32e721faea3337092116d3275c023c1e *R/write_momdpx.R
+8851a03d8833e915fc37d3d387587308 *R/write_momdpx.R
 b52677594a8834085fb83860ae064c3e *R/write_pomdpx.R
 48e390ede12d2dc0f75e1cb3d780c3e5 *inst/COPYRIGHTS
 9ed736f4e9f277201e412c8f7bd6815a *inst/NOTICE
@@ -148,11 +148,11 @@ a5eb0b501d775f4793d3ab944c6d50c4 *src/appl-0.96/Evaluator/EvaluatorSampleEngine.
 6ee7639224baa062747d7ecb9e3b3b79 *src/appl-0.96/MathLib/DenseVector.cpp
 9dec0158d5c2c709d5242035292cfbc4 *src/appl-0.96/MathLib/DenseVector.h
 84939a7cd978d37f1852cee56f3ba56b *src/appl-0.96/MathLib/MathLib.cpp
-f61f8a2c2d4d26ee53ae370f5e5b6a01 *src/appl-0.96/MathLib/MathLib.h
+75f6977551dc1b4e5c7505c5660c7931 *src/appl-0.96/MathLib/MathLib.h
 d41d8cd98f00b204e9800998ecf8427e *src/appl-0.96/MathLib/MathLib.o-12580c70
 d2ae6f49122376c6e7a880b49aa8f78f *src/appl-0.96/MathLib/SparseMatrix.cpp
 e886299c1c12ae905e115ecb95142d99 *src/appl-0.96/MathLib/SparseMatrix.h
-ca1e000d99a07afa0618b372400a4211 *src/appl-0.96/MathLib/SparseVector.cpp
+7ac6b032ca3a317123a07f4648280910 *src/appl-0.96/MathLib/SparseVector.cpp
 795b39df4416e600a5680116869a6e0b *src/appl-0.96/MathLib/SparseVector.h
 f7d1e2525df0d739b8932f05915883cf *src/appl-0.96/Models/MOMDP/BeliefTransitionMOMDP.cpp
 cab2bb35f2499a14c7f27e1334f5c703 *src/appl-0.96/Models/MOMDP/BeliefTransitionMOMDP.h
@@ -252,7 +252,7 @@ be2e8af29b109db7cf7254c3fac24ee4 *src/appl-0.96/PolicyGraph/PolicyGraphGenerator
 4c251512a3fa4f3d7cd1ab95d1be5bc9 *src/appl-0.96/Simulator/SimulationEngine.cpp
 bd393a4318da372ae48ad3709560b9c7 *src/appl-0.96/Simulator/SimulationEngine.h
 4c915a31a221612972758d82355e6bd9 *src/appl-0.96/Simulator/Simulator.cpp
-74f67246666e29ac69f45a915662eb73 *src/appl-0.96/Utils/CPMemUtils.cpp
+e4eb3c873b17bdb6e28b7b6dc9ced10b *src/appl-0.96/Utils/CPMemUtils.cpp
 428dc8e40c6823e25a425df1b5a510de *src/appl-0.96/Utils/CPMemUtils.h
 8782b8ddaa00f3ba080b7175623559fe *src/appl-0.96/Utils/CPTimer.h
 a0ba8d21a2371836da36595796c20a06 *src/appl-0.96/Utils/Cache.h
