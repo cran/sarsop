@@ -1,7 +1,7 @@
 Package: sarsop
 Type: Package
 Title: Approximate POMDP Planning Software
-Version: 0.6.4
+Version: 0.6.5
 Authors@R: c(
     person("Carl", "Boettiger", 
             email = "cboettig@gmail.com", 
@@ -37,15 +37,14 @@ Description: A toolkit for Partially Observed Markov Decision Processes (POMDP).
 License: GPL-2
 URL: https://github.com/boettiger-lab/sarsop
 BugReports: https://github.com/boettiger-lab/sarsop/issues
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Imports: xml2, parallel, processx, digest, Matrix
 Suggests: testthat, roxygen2, knitr, tidyverse, covr, spelling
 LinkingTo: BH
 Encoding: UTF-8
 Language: en-US
-SystemRequirements: mallinfo, hence Linux, MacOS or Windows
 NeedsCompilation: yes
-Packaged: 2020-07-17 03:02:05 UTC; cboettig
+Packaged: 2020-07-31 22:21:47 UTC; cboettig
 Author: Carl Boettiger [cre, aut, cph]
     (<https://orcid.org/0000-0002-1642-628X>),
   Jeroen Ooms [aut],
@@ -71,4 +70,4 @@ Author: Carl Boettiger [cre, aut, cph]
   RSA Data Security, Inc. [cph]
 Maintainer: Carl Boettiger <cboettig@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-07-19 14:10:06 UTC
+Date/Publication: 2020-08-03 13:30:02 UTC

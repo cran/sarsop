@@ -1,7 +1,12 @@
-## v0.6.4
-Indicate no solaris support via SystemRequirements
+## v0.6.5
 
-## v0.6.3
+* Drop use of `mallinfo()` to support Solaris
+
+## v0.6.4 2020-07-19
+
+* Indicate no Solaris support via SystemRequirements
+
+## v0.6.3 2020-06-27
 
 * Additional CRAN patches for Solaris and additional warnings.
 

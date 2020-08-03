@@ -1,6 +1,6 @@
-7547b56ededcc1ccbf649e7d01c9570e *DESCRIPTION
+740b15cbea207f76d39c4be301dbf2a3 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-b3263a5c2363be564da6caf3609d4af4 *NEWS.md
+7220e680495919ec13ed1e34667fcb7d *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -21,9 +21,6 @@ fe35fb27b8dd5a68fd3df3ae800c243e *inst/WORDLIST
 6806f9bdb4566d2cd196d2ad3927e8c7 *inst/examples/fisheries_ex_NS.R
 2c6e09a8a2fe690f95c3e0aae2451ed5 *inst/examples/pomdp_overestimates.R
 1d0316d0e587ccba9646b45db021ffc9 *inst/extdata/out.policy
-b6715a230d39e0eec51294d6bc0444a6 *inst/extdata/vignette/e6b6f0f5ace45ff9d09c9567007ae78b.log
-a5414487fe749f1d19474a2dfd236c6e *inst/extdata/vignette/e6b6f0f5ace45ff9d09c9567007ae78b.policyx
-67f6d81eabab684047256dabf492a4b7 *inst/extdata/vignette/e6b6f0f5ace45ff9d09c9567007ae78b.pomdpx
 3280b89c5a8816fd2e8ec5428551e97e *inst/models/example.pomdp
 d27d8a63b8e0ca8f6dc0c569eb2dee51 *man/alphas_from_log.Rd
 1ca61c662ba1ec026db0210a1520993f *man/appl.Rd
@@ -252,7 +249,7 @@ be2e8af29b109db7cf7254c3fac24ee4 *src/appl-0.96/PolicyGraph/PolicyGraphGenerator
 4c251512a3fa4f3d7cd1ab95d1be5bc9 *src/appl-0.96/Simulator/SimulationEngine.cpp
 bd393a4318da372ae48ad3709560b9c7 *src/appl-0.96/Simulator/SimulationEngine.h
 4c915a31a221612972758d82355e6bd9 *src/appl-0.96/Simulator/Simulator.cpp
-e4eb3c873b17bdb6e28b7b6dc9ced10b *src/appl-0.96/Utils/CPMemUtils.cpp
+8be14583a903fd731b6bd4d5e6ee23aa *src/appl-0.96/Utils/CPMemUtils.cpp
 428dc8e40c6823e25a425df1b5a510de *src/appl-0.96/Utils/CPMemUtils.h
 8782b8ddaa00f3ba080b7175623559fe *src/appl-0.96/Utils/CPTimer.h
 a0ba8d21a2371836da36595796c20a06 *src/appl-0.96/Utils/Cache.h
@@ -275,9 +272,6 @@ aa719fde2802bc5265e87799c38c2832 *src/readme.cpp
 ff4e297586e80a8a1ea93d73916f5658 *src/zzz.c
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
 eb884b150cc3321e4e5aa3699b66b7f6 *tests/testthat.R
-9e9701229547facfafe71f25ffe8f4c1 *tests/testthat/7bf2f9078e021c5bfbbb77961edc5d8f.log
-90b6bdd5e016477667891865640d83c4 *tests/testthat/7bf2f9078e021c5bfbbb77961edc5d8f.policyx
-ea5099dc25a6f68278c93b654ff05d1e *tests/testthat/7bf2f9078e021c5bfbbb77961edc5d8f.pomdpx
 ea9a7e344114410c44eec84ce11eef76 *tests/testthat/test-appl.R
 eca3e21778a01108d235b12da8f386e0 *tests/testthat/test-fisheries.R
 3e87c0a03b8ffd422e304994e372400a *tests/testthat/test-hindcast_pomdp.R
