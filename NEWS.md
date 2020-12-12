@@ -1,12 +1,12 @@
-## v0.6.5
+## v0.6.6
 
-* Drop use of `mallinfo()` to support Solaris
+* Avoid architecture-sensitive caching checks on CRAN
 
-## v0.6.4 2020-07-19
+## v0.6.4
 
-* Indicate no Solaris support via SystemRequirements
+* Indicate no solaris support via SystemRequirements
 
-## v0.6.3 2020-06-27
+## v0.6.3
 
 * Additional CRAN patches for Solaris and additional warnings.
 

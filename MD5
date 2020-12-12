@@ -1,6 +1,6 @@
-740b15cbea207f76d39c4be301dbf2a3 *DESCRIPTION
+ccd81ce7967ff16ed5589a1423b9efcf *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-7220e680495919ec13ed1e34667fcb7d *NEWS.md
+4f1713f9f43863315acd02e0fd069aff *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -15,7 +15,7 @@ f22e6cba72f7bfaeb46cd3c9e94b4deb *R/sim_pomdp.R
 b52677594a8834085fb83860ae064c3e *R/write_pomdpx.R
 48e390ede12d2dc0f75e1cb3d780c3e5 *inst/COPYRIGHTS
 9ed736f4e9f277201e412c8f7bd6815a *inst/NOTICE
-fe35fb27b8dd5a68fd3df3ae800c243e *inst/WORDLIST
+d09fb66e9414d50bc96bb7925e3f2423 *inst/WORDLIST
 795a7ab93e482c86dbc8f21a02db3326 *inst/examples/fisheries-ex.R
 16f65ba6a8b374882dd8725993d513e3 *inst/examples/fisheries-solve.R
 6806f9bdb4566d2cd196d2ad3927e8c7 *inst/examples/fisheries_ex_NS.R
@@ -249,7 +249,7 @@ be2e8af29b109db7cf7254c3fac24ee4 *src/appl-0.96/PolicyGraph/PolicyGraphGenerator
 4c251512a3fa4f3d7cd1ab95d1be5bc9 *src/appl-0.96/Simulator/SimulationEngine.cpp
 bd393a4318da372ae48ad3709560b9c7 *src/appl-0.96/Simulator/SimulationEngine.h
 4c915a31a221612972758d82355e6bd9 *src/appl-0.96/Simulator/Simulator.cpp
-8be14583a903fd731b6bd4d5e6ee23aa *src/appl-0.96/Utils/CPMemUtils.cpp
+e4eb3c873b17bdb6e28b7b6dc9ced10b *src/appl-0.96/Utils/CPMemUtils.cpp
 428dc8e40c6823e25a425df1b5a510de *src/appl-0.96/Utils/CPMemUtils.h
 8782b8ddaa00f3ba080b7175623559fe *src/appl-0.96/Utils/CPTimer.h
 a0ba8d21a2371836da36595796c20a06 *src/appl-0.96/Utils/Cache.h
@@ -276,7 +276,7 @@ ea9a7e344114410c44eec84ce11eef76 *tests/testthat/test-appl.R
 eca3e21778a01108d235b12da8f386e0 *tests/testthat/test-fisheries.R
 3e87c0a03b8ffd422e304994e372400a *tests/testthat/test-hindcast_pomdp.R
 1fcd5f8f23b60b8b54516b190f17811f *tests/testthat/test-sarsop-long.R
-c37877b82a28b15acf2e14bd17308b49 *tests/testthat/test-sarsop.R
+9ac21d524244fee4d1028bf67e6b243b *tests/testthat/test-sarsop.R
 2aa1b54fef995eeb554783cf5a42069d *tests/testthat/test-write_momdpx.R
 4896f6b1f7533c7d3fd28a8dcac39491 *tests/testthat/test-write_pomdpx.R
 856dd1b4a348d6839c6a0c72aaac7995 *tools/winlibs.R

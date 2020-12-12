@@ -1,7 +1,6 @@
 #include "CPMemUtils.h"
 #include "CPTimer.h"
 
-
 unsigned long getPhysicalMemorySize()
 {
 #ifdef __APPLE__
@@ -107,12 +106,12 @@ unsigned long getCurrentProcessMemoryUsage()
 		return 0;
 		//std::cout << "Could not open process (Error " << ::GetLastError() << ")" << std::endl;
 #else
-	//struct mallinfo info;
+	struct mallinfo info;
 
 	/* what is the largest ECB heap buffer currently available? */
-	//info = mallinfo();
+	info = mallinfo();
 
-	return 0; //info.arena;
+	return info.arena;
 
 #endif
 #endif
