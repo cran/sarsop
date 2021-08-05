@@ -1,6 +1,6 @@
-3d31bb3c65825c6813e1d7821ee2de67 *DESCRIPTION
+6fb683db3b6c0a6d4c9367175b3df220 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-44adf75a52c04050189b9b883be2dfd0 *NEWS.md
+a06d8e4501d7edd327703d19520c1c73 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -201,7 +201,7 @@ e37f116fc3bdbfb649b6bc07daa4bc7d *src/appl-0.96/Parser/Cassandra/imm-reward.c
 8dda71d0f77f9ef6ed7639d0cc042178 *src/appl-0.96/Parser/Cassandra/imm-reward.h
 16e8cb6b2c20e65b4fa6b9214af98580 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.cc
 65c9588b673ab7e7c7e163001d9c08a8 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.hh
-834e40b713d7226d639c6ba81381cba2 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.yy.cc
+90bb552e9669fe98ac0e04b336980168 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.yy.cc
 54ec149681566e11755082fa39a9219b *src/appl-0.96/Parser/Cassandra/mdpCassandra.c
 053c1d23cf080d145d9f63a2ab017cd3 *src/appl-0.96/Parser/Cassandra/mdpCassandra.h
 9f8fe88c5daf5da0aa44d6cb9d2d30f0 *src/appl-0.96/Parser/Cassandra/parse_constant.h
@@ -276,7 +276,7 @@ ea9a7e344114410c44eec84ce11eef76 *tests/testthat/test-appl.R
 eca3e21778a01108d235b12da8f386e0 *tests/testthat/test-fisheries.R
 3e87c0a03b8ffd422e304994e372400a *tests/testthat/test-hindcast_pomdp.R
 1fcd5f8f23b60b8b54516b190f17811f *tests/testthat/test-sarsop-long.R
-9ac21d524244fee4d1028bf67e6b243b *tests/testthat/test-sarsop.R
+e7b16da6bf737aa1d3c24544a7bf1df5 *tests/testthat/test-sarsop.R
 2aa1b54fef995eeb554783cf5a42069d *tests/testthat/test-write_momdpx.R
 4896f6b1f7533c7d3fd28a8dcac39491 *tests/testthat/test-write_pomdpx.R
 856dd1b4a348d6839c6a0c72aaac7995 *tools/winlibs.R

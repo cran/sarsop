@@ -1,7 +1,7 @@
 Package: sarsop
 Type: Package
 Title: Approximate POMDP Planning Software
-Version: 0.6.8
+Version: 0.6.9
 Authors@R: c(
     person("Carl", "Boettiger", 
             email = "cboettig@gmail.com", 
@@ -39,13 +39,13 @@ URL: https://github.com/boettiger-lab/sarsop
 BugReports: https://github.com/boettiger-lab/sarsop/issues
 RoxygenNote: 7.1.1
 Imports: xml2, parallel, processx, digest, Matrix
-Suggests: testthat, roxygen2, knitr, tidyverse, covr, spelling
+Suggests: testthat, roxygen2, knitr, covr, spelling
 LinkingTo: BH
 Encoding: UTF-8
 Language: en-US
 SystemRequirements: mallinfo, hence Linux, MacOS or Windows
 NeedsCompilation: yes
-Packaged: 2021-02-02 00:02:01 UTC; rstudio
+Packaged: 2021-08-04 20:36:44 UTC; cboettig
 Author: Carl Boettiger [cre, aut, cph]
     (<https://orcid.org/0000-0002-1642-628X>),
   Jeroen Ooms [aut],
@@ -71,4 +71,4 @@ Author: Carl Boettiger [cre, aut, cph]
   RSA Data Security, Inc. [cph]
 Maintainer: Carl Boettiger <cboettig@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-02-03 09:50:03 UTC
+Date/Publication: 2021-08-05 01:30:02 UTC
