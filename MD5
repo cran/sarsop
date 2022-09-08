@@ -1,6 +1,6 @@
-6fb683db3b6c0a6d4c9367175b3df220 *DESCRIPTION
+12d1cde603b62bed1fbc0fdce161d5d5 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-a06d8e4501d7edd327703d19520c1c73 *NEWS.md
+cfd7e3db679d13a0f5dbb88c1d18d041 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -107,7 +107,7 @@ c11f054747172a02864de563b274c25c *src/appl-0.96/Core/BeliefCacheSet.cpp
 d2c3094697232eea2fa27ac9f20c70bb *src/appl-0.96/Core/BeliefCacheSet.h
 b689b456119487087a33cff68d2f50d8 *src/appl-0.96/Core/BeliefException.cpp
 6de29b74b2d2650537f26819aa04541c *src/appl-0.96/Core/BeliefException.h
-f4e297536a483fccd32ae30206d754a2 *src/appl-0.96/Core/BeliefForest.cpp
+dddf017e767d267d615a681a5ffd167b *src/appl-0.96/Core/BeliefForest.cpp
 b6bea1afd3142191fa94f8834fba7b93 *src/appl-0.96/Core/BeliefForest.h
 418753b69aca952ec619a3fa67acf277 *src/appl-0.96/Core/BeliefTransition.h
 c464c6d1c29ae9419ab96963dde3f5d2 *src/appl-0.96/Core/BeliefTreeNode.cpp
