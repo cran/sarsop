@@ -1,6 +1,6 @@
-df2d22e006e44df179ca39a77fdb7e6a *DESCRIPTION
+a4f03186edb264f48a77e7184f1d94ca *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-da21945756779e7aafaa9108b43b6ffb *NEWS.md
+68c14384bb74ede49e00bce3d6e93581 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -263,8 +263,8 @@ f57c4a33c29214774e58700e9460229d *src/appl-0.96/Utils/StatsCollector.h
 40edfbed7320c82ca322f27aa64ae84a *src/appl-0.96/Utils/md5.h
 edefc6a1d827ae28e171e940806af1cb *src/appl-0.96/Utils/md5wrapper.cpp
 10f2cceafa268b747daf9940d785d345 *src/appl-0.96/Utils/md5wrapper.h
-cd7d1e153015a78d460029b887213f9c *src/appl-0.96/miniposix/getopt.c
-0598a79e287f381c077ca0b7a615e158 *src/appl-0.96/miniposix/getopt.h
+6f343c4117c6032264c242199ced8a24 *src/appl-0.96/miniposix/getopt.c
+678393d1201806e5285597f21d20a36f *src/appl-0.96/miniposix/getopt.h
 e45e048d2c34325abff3828783f455d0 *src/appl-0.96/miniposix/getopt1.c
 4b8dd806248faebf7c65f1aacebf3616 *src/appl-0.96/miniposix/getopt_init.c
 62d269a17ea7b4fa94e8a50869fca530 *src/appl-0.96/miniposix/getopt_int.h
