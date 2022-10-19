@@ -1,6 +1,6 @@
-a4f03186edb264f48a77e7184f1d94ca *DESCRIPTION
+86714fb7319b29a9f8861a26c11aec19 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-68c14384bb74ede49e00bce3d6e93581 *NEWS.md
+2f4ff1575faa67d95a6cc8578c9d5af7 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -205,7 +205,7 @@ a5aa389c0606e2ab73d9df45ce8cfda4 *src/appl-0.96/Parser/Cassandra/imm-reward.h
 5f07c3135e0488ad9af6f1352ea38921 *src/appl-0.96/Parser/Cassandra/mdpCassandra.c
 02b3a8f3516c1876cbab640491f2ebdd *src/appl-0.96/Parser/Cassandra/mdpCassandra.h
 9f8fe88c5daf5da0aa44d6cb9d2d30f0 *src/appl-0.96/Parser/Cassandra/parse_constant.h
-2e5a6306553e52f02c20e84e660e67a8 *src/appl-0.96/Parser/Cassandra/parse_err.c
+7a2a757e43e5818ea9cfb2607f6f3ea9 *src/appl-0.96/Parser/Cassandra/parse_err.c
 45f4baaf2b8330bdb80b1c033ae4889d *src/appl-0.96/Parser/Cassandra/parse_err.h
 e9fb40e73b46324b76d8ce1d7a85abfa *src/appl-0.96/Parser/Cassandra/parse_hash.c
 25a71c9f30e93de00bd58c9b5f4b68c6 *src/appl-0.96/Parser/Cassandra/parse_hash.h
