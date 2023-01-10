@@ -1,6 +1,6 @@
-86714fb7319b29a9f8861a26c11aec19 *DESCRIPTION
+3358103b2cc205a58f7e9b08e9ac9867 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-2f4ff1575faa67d95a6cc8578c9d5af7 *NEWS.md
+2482dd0682dbc52b20bb0d9e6616bbfa *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -44,7 +44,7 @@ a837ed252a430b22b59da9d586bbb01f *man/write_pomdpx.Rd
 c1acf3d111e24fb31211f4d346b5d80e *src/Makevars.win
 ad6f7663380d4e7c0313b9d8d1b46096 *src/appl-0.96/Algorithms/PointBasedAlgorithm.h
 511cd9310cb86af13273b8911b2f65aa *src/appl-0.96/Algorithms/SARSOP/AlphaPlaneMaxMeta.h
-d7912398e96e82c9f02f62aba385a283 *src/appl-0.96/Algorithms/SARSOP/BinManager.cpp
+572ef3048c2516516ee491ccc2f44027 *src/appl-0.96/Algorithms/SARSOP/BinManager.cpp
 b069629f32f7ecdc9cd10def9e563d6f *src/appl-0.96/Algorithms/SARSOP/BinManager.h
 17db78b0092452459d145f22115b063a *src/appl-0.96/Algorithms/SARSOP/BinManagerSet.cpp
 334b82fadd5ba89b2d76d3d18ef8df5c *src/appl-0.96/Algorithms/SARSOP/BinManagerSet.h
@@ -199,7 +199,7 @@ ece776a690fd088a9393610d116c3722 *src/appl-0.96/Parser/Cassandra/decision-tree.c
 2b016ed599e62e5e2aa333111cc0d252 *src/appl-0.96/Parser/Cassandra/decision-tree.h
 a9428b959e832b84423cb094f27ce40b *src/appl-0.96/Parser/Cassandra/imm-reward.c
 a5aa389c0606e2ab73d9df45ce8cfda4 *src/appl-0.96/Parser/Cassandra/imm-reward.h
-16e8cb6b2c20e65b4fa6b9214af98580 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.cc
+bb58def33c0bafaaf77bd5224f41c3d1 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.cc
 65c9588b673ab7e7c7e163001d9c08a8 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.hh
 90bb552e9669fe98ac0e04b336980168 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.yy.cc
 5f07c3135e0488ad9af6f1352ea38921 *src/appl-0.96/Parser/Cassandra/mdpCassandra.c
@@ -213,7 +213,7 @@ e9fb40e73b46324b76d8ce1d7a85abfa *src/appl-0.96/Parser/Cassandra/parse_hash.c
 6f55f372bdcaea48fa37a11201b7ce89 *src/appl-0.96/Parser/Cassandra/pomdpCassandraWrapper.h
 62633646b1c64163466f59e0c8aee104 *src/appl-0.96/Parser/Cassandra/sparse-matrix.c
 91a632c59e0761ca80799814fde08230 *src/appl-0.96/Parser/Cassandra/sparse-matrix.h
-6cd3f74b22feacbc5cf19594e7290ca7 *src/appl-0.96/Parser/POMDPX/FactoredPomdp.cpp
+e84e3ad7c40e3a37805fe5b3779a1cb9 *src/appl-0.96/Parser/POMDPX/FactoredPomdp.cpp
 49fa12dcbc1bdbcd293fa6bf5f370916 *src/appl-0.96/Parser/POMDPX/FactoredPomdp.h
 0f80a26979cb1cc71eba734eff732005 *src/appl-0.96/Parser/POMDPX/Function.cpp
 482ff980e9c4fd61d9f3d11db75733df *src/appl-0.96/Parser/POMDPX/Function.h
@@ -235,7 +235,7 @@ a7723786e71f2609a79fb961b86f6221 *src/appl-0.96/Parser/POMDPX/StateObsAct.h
 b9d7b168e07aee1464366fd8e2f0ea80 *src/appl-0.96/Parser/POMDPX/UniqueIndex.h
 05cdb8eb66cf99b4d72e71488960b5d3 *src/appl-0.96/Parser/POMDPX/tinystr.cpp
 98cab1ee4add291e0caf53936f75fdbf *src/appl-0.96/Parser/POMDPX/tinystr.h
-75bbcbef9285235b9af1cb8c2d2032bd *src/appl-0.96/Parser/POMDPX/tinyxml.cpp
+af4693fd182f051c4f7ff9bd879eb091 *src/appl-0.96/Parser/POMDPX/tinyxml.cpp
 6fff5d32d072574d024e1c731e8eab85 *src/appl-0.96/Parser/POMDPX/tinyxml.h
 e4a7df8ee72b3dd2c54c37ab14a68c89 *src/appl-0.96/Parser/POMDPX/tinyxmlerror.cpp
 b62e86e395836e30b1c734e803b75faf *src/appl-0.96/Parser/POMDPX/tinyxmlparser.cpp
