@@ -1,6 +1,6 @@
-3358103b2cc205a58f7e9b08e9ac9867 *DESCRIPTION
+ec0dd91dc68faa6678270a1852d0df3d *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-2482dd0682dbc52b20bb0d9e6616bbfa *NEWS.md
+f8af4124f60bf6bc4c3fc4f619a3a874 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -40,7 +40,7 @@ d461a2e78a384c0fd95650474f56f04f *man/read_policyx.Rd
 9549db8004a5316146e4a9fa6ef926f3 *man/sarsop.Rd
 cc889a9db4c9b73013e5326a54c6959d *man/sim_pomdp.Rd
 a837ed252a430b22b59da9d586bbb01f *man/write_pomdpx.Rd
-45bcb6a5c275fe4e12181d3002f77def *src/Makevars
+70c9571a88419c1e6808b1ed1f299604 *src/Makevars
 c1acf3d111e24fb31211f4d346b5d80e *src/Makevars.win
 ad6f7663380d4e7c0313b9d8d1b46096 *src/appl-0.96/Algorithms/PointBasedAlgorithm.h
 511cd9310cb86af13273b8911b2f65aa *src/appl-0.96/Algorithms/SARSOP/AlphaPlaneMaxMeta.h
@@ -130,7 +130,7 @@ c28fb69cd5c443a81363bedb1e04a736 *src/appl-0.96/Core/Observations.h
 d41d8cd98f00b204e9800998ecf8427e *src/appl-0.96/Core/States.cpp
 dbe029681874d81a466a9e91431c456b *src/appl-0.96/Core/States.h
 023e01f049a6b362a646cc95ff57db6b *src/appl-0.96/Core/SymbolSet.h
-c55ebb89349b6f2b4c1aba00c3e5a60c *src/appl-0.96/Core/SymbolSetIterator.h
+e571c8922a91cd7f95bd7992a6e23e50 *src/appl-0.96/Core/SymbolSetIterator.h
 f7fea2f187f700d46b63062edb1095e9 *src/appl-0.96/Core/Tuple.h
 bfef126932a14491354fa7e1d85ce6bf *src/appl-0.96/Core/UniqueBeliefHeap.cpp
 63fbfcee6e3e25e8a6e194571e1d3910 *src/appl-0.96/Core/UniqueBeliefHeap.h
