@@ -1,6 +1,6 @@
-ec0dd91dc68faa6678270a1852d0df3d *DESCRIPTION
+219c42ff17ce8ca45c697eeefcab0db2 *DESCRIPTION
 f04515fdb646ca6f843f95b2021f9a4c *NAMESPACE
-f8af4124f60bf6bc4c3fc4f619a3a874 *NEWS.md
+9b109384003570da9dd61ffd49372820 *NEWS.md
 33bd130cdd2afbc9491188bb756f7a8d *R/appl.R
 a9a90b716edc59c12ce1fd3a45fde7e0 *R/assert.R
 c8ef22f37c53fa194e78ea7cd77b9fbc *R/compute_policy.R
@@ -15,7 +15,7 @@ f22e6cba72f7bfaeb46cd3c9e94b4deb *R/sim_pomdp.R
 b52677594a8834085fb83860ae064c3e *R/write_pomdpx.R
 48e390ede12d2dc0f75e1cb3d780c3e5 *inst/COPYRIGHTS
 9ed736f4e9f277201e412c8f7bd6815a *inst/NOTICE
-d09fb66e9414d50bc96bb7925e3f2423 *inst/WORDLIST
+ee67150527fd8760a2f6fa3151c7dae3 *inst/WORDLIST
 795a7ab93e482c86dbc8f21a02db3326 *inst/examples/fisheries-ex.R
 16f65ba6a8b374882dd8725993d513e3 *inst/examples/fisheries-solve.R
 6806f9bdb4566d2cd196d2ad3927e8c7 *inst/examples/fisheries_ex_NS.R
@@ -130,7 +130,7 @@ c28fb69cd5c443a81363bedb1e04a736 *src/appl-0.96/Core/Observations.h
 d41d8cd98f00b204e9800998ecf8427e *src/appl-0.96/Core/States.cpp
 dbe029681874d81a466a9e91431c456b *src/appl-0.96/Core/States.h
 023e01f049a6b362a646cc95ff57db6b *src/appl-0.96/Core/SymbolSet.h
-e571c8922a91cd7f95bd7992a6e23e50 *src/appl-0.96/Core/SymbolSetIterator.h
+98898fac192f3c1cb2cb67ed28613616 *src/appl-0.96/Core/SymbolSetIterator.h
 f7fea2f187f700d46b63062edb1095e9 *src/appl-0.96/Core/Tuple.h
 bfef126932a14491354fa7e1d85ce6bf *src/appl-0.96/Core/UniqueBeliefHeap.cpp
 63fbfcee6e3e25e8a6e194571e1d3910 *src/appl-0.96/Core/UniqueBeliefHeap.h
@@ -201,7 +201,7 @@ a9428b959e832b84423cb094f27ce40b *src/appl-0.96/Parser/Cassandra/imm-reward.c
 a5aa389c0606e2ab73d9df45ce8cfda4 *src/appl-0.96/Parser/Cassandra/imm-reward.h
 bb58def33c0bafaaf77bd5224f41c3d1 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.cc
 65c9588b673ab7e7c7e163001d9c08a8 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.tab.hh
-90bb552e9669fe98ac0e04b336980168 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.yy.cc
+b2bc3228c35745c5529f167dd49c05e4 *src/appl-0.96/Parser/Cassandra/include/pomdp_spec.yy.cc
 5f07c3135e0488ad9af6f1352ea38921 *src/appl-0.96/Parser/Cassandra/mdpCassandra.c
 02b3a8f3516c1876cbab640491f2ebdd *src/appl-0.96/Parser/Cassandra/mdpCassandra.h
 9f8fe88c5daf5da0aa44d6cb9d2d30f0 *src/appl-0.96/Parser/Cassandra/parse_constant.h

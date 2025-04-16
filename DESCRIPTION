@@ -1,7 +1,7 @@
 Package: sarsop
 Type: Package
 Title: Approximate POMDP Planning Software
-Version: 0.6.15
+Version: 0.6.16
 Authors@R: c(
     person("Carl", "Boettiger", 
             email = "cboettig@gmail.com", 
@@ -45,7 +45,7 @@ Encoding: UTF-8
 Language: en-US
 SystemRequirements: mallinfo, hence Linux, MacOS or Windows
 NeedsCompilation: yes
-Packaged: 2024-06-24 17:06:48 UTC; rstudio
+Packaged: 2025-04-15 17:11:33 UTC; jovyan
 Author: Carl Boettiger [cre, aut, cph]
     (<https://orcid.org/0000-0002-1642-628X>),
   Jeroen Ooms [aut],
@@ -71,4 +71,4 @@ Author: Carl Boettiger [cre, aut, cph]
   RSA Data Security, Inc. [cph]
 Maintainer: Carl Boettiger <cboettig@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-06-25 17:10:01 UTC
+Date/Publication: 2025-04-16 04:50:08 UTC
